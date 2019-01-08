@@ -1,0 +1,6 @@
+framework module Pods_RandomUserListTests {
+  umbrella header "Pods-RandomUserListTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
